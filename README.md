@@ -10,7 +10,7 @@
 
 ### 프로젝트 설치 방법
 
-#####  [app-debug.apk 파일 설치 링크](https://drive.google.com/file/d/1UKjeuq-1tbcD1CtC49ixDvX3U3d1GKxT/view?usp=drive_link)
+#####  [app-debug.apk 파일 설치 링크](https://drive.google.com/file/d/12GkLXC_ExU3oPiqQxpd0OrgReBgB2_3q/view?usp=sharing)
 
 ---
 
