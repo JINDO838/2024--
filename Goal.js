@@ -64,11 +64,7 @@ function GoalView() {
   const [delModalVisible, setDelModalVisible] = useState(false);
   const [selectedGoalIndex, setSelectedGoalIndex] = useState(null); // 선택된 목표 인덱스
   const [amountModalVisible, setAmountModalVisible] = useState(false);
-  const [goalData, setGoalData] = useState([
-      { index: 1, goal: '내용', dayLeft: 10, insufAmount: '5000' },
-      { index: 2, goal: "내용2", dayLeft: 5, insufAmount: '2000' },
-      { index: 3, goal: "내용3", dayLeft: 7, insufAmount: '1000' },
-    ]);
+  const [goalData, setGoalData] = useState([]);
   const handlePlustBtnPress = () => {
     setGoalModalVisible(true);
   }
